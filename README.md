@@ -24,7 +24,7 @@ This repository contains all the Medium posts I have published.
 
 # License
 
-The content of this repository is under the [MIT](https://github.com/cr0hn/my-medium-posts-resources/blob/main/LICENSE) license.
+The content of this repository is under the [MIT](https://github.com/cr0hn/my-medium-posts-resources/blob/main/LICENSE) licence.
 
 # Contributions
 

@@ -4,16 +4,16 @@
 
 This repository contains all the Medium posts I have published.
 
-**Posts**
+## Posts
 
-- DevSecOps
+**DevSecOps**
   
   1. [DevSecOps series No. 1 - Breaking the CI/CD by using evil Git repositories](https://cr0hn.medium.com/devsecops-series-1-breaking-the-ci-cd-by-using-evil-git-repositories-2eaa460f5d5b)
   2. [DevSecOps series No. 2 - Automatic checking Dockerfiles for security](https://medium.com/geekculture/devsecops-series-no-2-automatic-checking-dockerfiles-for-security-8709249c2367)
   3. [DevSecOps series No. 3 - Old-fashion issues in DevOps: Zip Bombs](https://cr0hn.medium.com/devsecops-series-4-protecting-environment-variables-in-the-most-well-known-c-i-systems-e0b606b450e4)
   4. [DevSecOps series No. 4 - Protecting environment variables in the most well-known C.I. systems](https://cr0hn.medium.com/devsecops-series-4-protecting-environment-variables-in-the-most-well-known-c-i-systems-e0b606b450e4)
 
-- Python
+**Python**
 
   1. [Python Docker Images in less than 50MB](https://cr0hn.medium.com/python-docker-images-in-less-than-50mb-8acc6ed776ec)
   2. [lxml in multi-step Docker images](https://cr0hn.medium.com/lxml-in-multi-step-docker-images-243e11f4e9ac)

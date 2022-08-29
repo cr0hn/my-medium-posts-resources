@@ -21,6 +21,15 @@ This repository contains all the Medium posts I have published.
   4. [Measuring the performance of Python chunks in different environments](https://cr0hn.medium.com/measuring-the-performance-of-python-chunks-in-different-environments-133f15fa6a6f)
   5. [Auto-generating Regular expressions from a wordlists with Python](https://cr0hn.medium.com/auto-generating-regular-expressions-from-a-wordlists-with-python-d15330df6295)
 
+**Serverless**
+
+  1. []
+
+**Wonderful Python Libraries series**
+
+  1. [Wonderful Python Libraries series Nº 1 :: Prompt Toolkit](https://cr0hn.medium.com/wonderful-python-libraries-series-n%C2%BA-1-prompt-toolkit-e6e73d30891a)
+  2. [Wonderful Python Libraries series Nº 2 :: Python Secure Secret Storage](https://cr0hn.medium.com/wonderful-python-libraries-series-n%C2%BA-2-python-secure-secret-storage-aa135ceafe07)
+
 
 # License
 
